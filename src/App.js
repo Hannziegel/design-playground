@@ -1,10 +1,10 @@
-import Grid from './components/Grid/Grid';
+import ItemEffect from './components/ItemEffect/ItemEffect';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Grid />
+      <ItemEffect />
     </div>
   );
 }
