@@ -1,10 +1,10 @@
-import TextHoverEffect from './components/TextHoverEffect/TextHoverEffect';
+import TextEffect from './components/TextEffect/TextEffect';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <TextHoverEffect />
+      <TextEffect />
     </div>
   );
 }
