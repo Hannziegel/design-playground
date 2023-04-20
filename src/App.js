@@ -1,10 +1,11 @@
-import RadialMenu from './components/RadialMenu/RadialMenu';
+
 import './App.css';
+import IconFillHover from './components/IconFillHover/IconFillHover';
 
 function App() {
   return (
     <div className="App">
-      <RadialMenu />
+      <IconFillHover />
     </div>
   );
 }
