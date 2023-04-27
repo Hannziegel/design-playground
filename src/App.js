@@ -1,11 +1,11 @@
 
 import './App.css';
-import IconFillHover from './components/IconFillHover/IconFillHover';
+import ThreeDimensionHoverIcon from './components/3DHoverIcon/ThreeDimensionHoverIcon';
 
 function App() {
   return (
     <div className="App">
-      <IconFillHover />
+      <ThreeDimensionHoverIcon />
     </div>
   );
 }
